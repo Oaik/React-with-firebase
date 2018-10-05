@@ -1,7 +1,7 @@
 # dependencies
 /firebasereact/node_modules
 /firebasereact/functions/node_modules
-
+/firebasereact/package-lock.json
 # testing
 /firebasereact/coverage
 
